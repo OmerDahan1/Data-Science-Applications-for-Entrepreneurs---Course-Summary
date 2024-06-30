@@ -33,9 +33,9 @@ The assignment involved defining the objective function, decision variables, and
 #### Objective: 
 Apply data science techniques to improve the candidate selection process for "Inerview" company, focusing on identifying candidates who are likely to stay long-term.
 #### Detailed Review:
-##### Background
+#### Background
 The final project integrates various data science techniques to address a real-world business problem. It involves data analysis, clustering, classification, and optimization, building on the skills developed in the previous assignments.
-##### Project Components
+#### Project Components
 **Data Collection and Preparation:**
   - Collected relevant datasets from various sources.
   - Cleaned and preprocessed the data to ensure accuracy and consistency.
@@ -53,16 +53,17 @@ The final project integrates various data science techniques to address a real-w
 **Results and Insights:**
   - Identified clusters of candidates with high potential for long-term retention.
   - Provided recommendations for optimizing the candidate selection process.
-##### Key Findings and Insights
+#### Key Findings and Insights
 **Data Analysis:** Identified key traits correlated with long-term success in the sales position.
 **Clustering:** Revealed distinct candidate segments with high retention potential.
 **Evaluation:** Demonstrated the effectiveness of clustering in improving candidate selection.
 ##### Conclusion
 The final project demonstrates the practical application of data science techniques in enhancing candidate selection processes. By combining exploratory data analysis, clustering, and evaluation, the project provides valuable insights and solutions for improving long-term employee retention.
-##### Further Investigation
+#### Further Investigation
 **Candidate Profiling:** Investigate attributes most predictive of long-term success for different roles.
 **Candidate Screening:** Identify effective screening methods for long-term retention.
 **Talent Analytics:** Explore best practices for using analytics to enhance candidate selection.
 
-##### Bibliography
+#### Bibliography
+in page 10 of ![DS_report](https://github.com/OmerDahan1/Data-Science-Applications-for-Entrepreneurs---Course-Summary/blob/main/Final%20Project%20-%20Data%20Science/DS_report.pdf)
 
