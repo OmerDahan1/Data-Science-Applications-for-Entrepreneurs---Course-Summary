@@ -64,5 +64,5 @@ The final project demonstrates the practical application of data science techniq
 **Candidate Screening:** Identify effective screening methods for long-term retention.
 **Talent Analytics:** Explore best practices for using analytics to enhance candidate selection.
 ### Bibliography
-Bibliography on page 10 of the ![DS_report](https://github.com/OmerDahan1/Data-Science-Applications-for-Entrepreneurs---Course-Summary/blob/main/Final%20Project%20-%20Data%20Science/DS_report.pdf)
+Bibliography on page 10 of the [DS_report](https://github.com/OmerDahan1/Data-Science-Applications-for-Entrepreneurs---Course-Summary/blob/main/Final%20Project%20-%20Data%20Science/DS_report.pdf)
 
